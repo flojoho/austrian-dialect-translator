@@ -8,6 +8,8 @@ better responsiveness
 
 size of divs/textarea should not change when text is changing (zb when emptying textarea)
 
+requirement: translation must preserve formatting (punctuation, line breaks,...) 
+
 
 
 
