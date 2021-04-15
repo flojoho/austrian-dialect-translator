@@ -2,17 +2,19 @@
 
 
 
+INBOX
+
+better responsiveness
+
+size of divs/textarea should not change when text is changing (zb when emptying textarea)
 
 
 
 
-select all textarea text on focus
-
-r: textarea: remove corner triangle for resizing
 
 
 
-
+make sure the output gets displayed correctly for really long text
 
 better UI
   arrow from left to right?
