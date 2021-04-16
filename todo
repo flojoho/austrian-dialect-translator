@@ -2,6 +2,9 @@
 
 INBOX
 
+r: how to do case sensitive string replacement
+
+r: most used german words
 
 
 
@@ -11,6 +14,9 @@ INBOX
 
 
 DECISIONS
+
+word based or sentence based? (including complex grammar)
+  for now: word based
 
 better UI
   arrow from left to right?
@@ -23,8 +29,9 @@ case to handle: empty input text
 
 
 
-
 TODOS
+
+write testing setup
 
 better responsiveness
 
