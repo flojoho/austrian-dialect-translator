@@ -65,10 +65,12 @@ export const testCases = {
   "ganze": "gonze",
   "ganzes": "gonzes",
   "ganzen": "gonzn",
+  "fast": "fosd",
 
   "nur": "nua",
 
   "noch": "nu",
+  "wieder": "wieda",
 
   "oder": "oda",
   "aber": "owa",
@@ -91,17 +93,21 @@ export const testCases = {
   "schon": "scho",
 
   "hier": "do",
+  "von": "vo",
+  "an": "on",
+  "ab": "ob",
 
   "gut": "guad",
   "schlecht": "schlechd",
-
-  "von": "vo",
+  "schön": "sche",
 
   "als": "ois",
   "wie": "wia",
 
   "mit": "mid",
   "für": "fia",
+  "gegen": "gegn",
+  "zur": "zua",
 
   "weil": "wei",
   "da": "wei",
@@ -122,6 +128,7 @@ export const testCases = {
   "weniger": "weniga",
   "wenigsten": "wenigstn",
   "bisschen": "bissl",
+  "sehr": "sea",
 
   "klein": "kloa",
   "kleine": "klane",
@@ -145,6 +152,7 @@ export const testCases = {
   "davor": "davoa",
   "vorne": "vuan",
   "hinten": "hintn",
+  "durch": "duach",
 
   "man": "ma",
 
@@ -184,6 +192,18 @@ export const testCases = {
   "eher": "eha",
 
   "lieber": "liaba",
+
+  "seit": "seid",
+  "jetzt": "jezd",
+  "bald": "boid",
+  "gestern": "gestan",
+  "heute": "haid",
+  "morgen": "moagn",
+  
+  "her": "hea",
+
+  "einfach": "afoch",
+  "schwer": "schwa",
 }
 
 for(const [word, correctTranslation] of Object.entries(testCases)) {
