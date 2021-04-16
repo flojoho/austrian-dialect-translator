@@ -1,14 +1,7 @@
 
 
-
-
 INBOX
 
-better responsiveness
-
-size of divs/textarea should not change when text is changing (zb when emptying textarea)
-
-requirement: translation must preserve formatting (punctuation, line breaks,...) 
 
 
 
@@ -16,8 +9,28 @@ requirement: translation must preserve formatting (punctuation, line breaks,...)
 
 
 
-make sure the output gets displayed correctly for really long text
+
+DECISIONS
 
 better UI
   arrow from left to right?
+
+case to handle: empty input text
+
+
+
+
+
+
+
+
+TODOS
+
+better responsiveness
+
+requirement: translation must preserve formatting (punctuation, line breaks,...)
+
+case to handle: very long input words (no spaces) can screw with output overflow
+
+case to handle: output gets displayed correctly for really long text
 
