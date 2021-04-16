@@ -1,5 +1,70 @@
 
 
+INBOX
+
+seit
+
+heute
+gestern
+morgen
+
+nun
+
+her
+
+bald
+
+selbst
+
+bereits
+
+zudem
+
+mehr, mehrere, mehreren
+
+sehr
+
+durch
+
+hoch, hohe, hohes, hohen
+
+wieder
+
+seit
+
+gegen
+
+ab
+
+an
+
+lang, lange, langen, langes
+länger, längere, längeres, längeren
+kurz, kurze, kurzen, kurzes
+kürzer, kürzere, kürzeres, kürzerer, kürzeren
+
+verschieden, verschiedene
+unterschied, unterschiede
+unterschiedlich, unterschiedliche, unterschiedliches, unterschiedlichen
+
+sodass
+
+einfach
+
+nachdem
+
+fast
+
+worden, geworden -> woan
+
+wieder
+
+zur
+
+kein, keine, keinen
+keines
+
+schön
 
 
 
@@ -7,15 +72,42 @@
 
 
 
+jemand, jemanden, jemandem
+irgendjemand
+irgendwer
+
+euer, eure
+unser, unsere
+ihr -> ia?
+ihre -> eana, eicha, eichane
+mein, meine, meinen
+
+diese, dieser, dieses, diesem
+
+dem
+
+deren
+
+deklinationen: müssen, können, sollen, machen, wollen + konjunktiv, präteritum
+wurde, wurden
 
 
-müssen, können, sollen, machen
 
-zeiten: mitvergangenheit, vergangenheit
+
+
+
+danke -> dongsche?
+
+mitvergangenheit -> vergangenheit
+vergangenheit
+
+konjunktiv 1 -> präsens
 
 eins, zwei, drei, vier, ...
 
 deutsch -> deitsch
+
+arsch -> oasch
 
 
 
@@ -23,16 +115,119 @@ deutsch -> deitsch
 
 POSSIBLE RULES
 
-ir -> ia
-ihr -> ia
+ir, ihr -> ia
 
 ch^ -> ''
 
-t^ -> d
+-t -> -d
 
-^er -> a
+-er -> -a
+-er- -> -a-
 
-al -> oi
+-en -> -n
+
+-al- -> -oi-
 
 oll -> oi
+
+ar -> oa
+
+el, ell -> ö
+
+-bar -> boa
+
+ge- -> g-
+
+il -> ü
+
+
+
+
+
+
+
+
+CONTEXT SPECIFIC MAPPINGS
+
+der -> da, dea, von di, von da
+
+ein -> a, ei
+eine -> a, ane
+
+da -> do, wei
+
+einer -> vo am + anderer fall
+
+am -> am, aufm
+
+eines -> von am, ans
+
+feiern wir -> feierma / feier ma / feiern ma
+
+mit Anna -> mid da Anna
+
+müssen wir -> miaßma
+
+nicht mehr -> nimma
+
+aus dem -> ausm
+
+auf dem -> aufm, am
+auf den -> aufn
+auf die -> auf di
+
+wir -> wia, ma
+
+alter/Alter -> oida, oiter (ödawean?)
+
+wenig -> wenig, weng
+
+jemand -> ana?, wea
+
+des -> vom + 1. fall
+
+wenn -> wonn; wenn sie nehmen würden -> wenns nahmadn / nehma dadn
+
+den -> di, en
+
+weil sie -> weis
+
+deshalb können sie -> deshalb kennans
+
+werde -> wead, wiad (konjunktiv)
+
+durch die -> duachd
+durch den -> duachn
+durch das -> duachs
+
+in den -> indn
+
+mid dem -> midm
+
+mit den -> mid di
+
+gegen die -> gegnd
+gegen den -> gegnan
+gegen das -> gegns
+
+gibt es -> gibts
+
+wie -> wia, wie
+
+für den -> fian
+für die -> fia di / fiat
+für das -> fias
+
+keine -> ka, kane
+
+das -> des, es, 's
+
+dass sie, dass es -> dosss
+dass er -> dosa
+
+anderen -> ondan, ondare
+
+zu übersetzen -> z'übasetzn
+
+wir -> wia, mia, ma
 

@@ -1,6 +1,9 @@
 import { testCases } from './tests.js'
 
 export default function translateText(text) {
+  if(typeof text !== 'string') throw new Error('expected string as argument');
+  if(text === '') return '';
+  
   // https://stackoverflow.com/questions/11704182/regex-with-extended-latin-alphabet-%c3%a4-%c3%b6-%c3%bc-%c3%a8-%c3%9f
   const splitText = text.match(/[\p{L}]+|[^\p{L}]+/giu);
 
